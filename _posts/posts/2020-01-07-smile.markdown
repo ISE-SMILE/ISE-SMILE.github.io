@@ -1,0 +1,20 @@
+---
+layout: post
+title:  "SMILE - What lies ahead?"
+date:   2020-01-07 10:19:55 +0100
+author:
+  name: Sebastian Werner - Project Lead
+  twitter: tawalaya
+  picture: /images/seb.png
+categories: posts
+---
+This year the [ISE chair of TU-Berlin](https://www.ise.tu-berlin.de) is starting the SMILE (Supporting MIgration to ServerLess Environments) Project.
+The aim of the SMILE project is to provide methodological and technical support for migrating to serverless environments. Serverless is a new form of cloud computing that offers fully manged execution of distributed computing. It removes the burden of building, configuring, and managing such a complex distributed system from the developer and shifts it to a cloud provider.
+Developers can, therefore, concentrate on building applications rather than maintaining complex systems.
+
+The project aims to create a serverless migration framework (SMF) that will allow parts of traditional (cloud) applications to be migrated to a serverless infrastructure. Thus, enabling existing applications to benefit from this new model.
+
+The project will initially focus on data-intensive analysis applications. SMILE is carried out in cooperation with the IAV GmbH, is one of the leading development partners for the automotive industry in Germany.
+SMILE is a Software Campus Project funded by BMBF.
+
+During the next two years, we will, therefore, work on novel research in the area of serverless migration and serverless data processing. Follow us here to stay up to date on our work.
