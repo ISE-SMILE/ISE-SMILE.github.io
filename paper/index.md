@@ -1,6 +1,6 @@
 ---
 title: Papers
-layout: categories
+layout: category
 permalink: /paper/
 taxonomy: papers
 show_excerpts: true
