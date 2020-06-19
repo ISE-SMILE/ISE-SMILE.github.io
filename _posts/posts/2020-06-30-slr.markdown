@@ -1,0 +1,26 @@
+---
+layout: post
+title:  "What FaaS data processing framework exist?"
+date:   2020-01-07 10:19:55 +0100
+author:
+  name: Sebastian Werner - Project Lead
+  twitter: tawalaya
+  picture: /images/seb.png
+categories: posts
+---
+As part of the Smile-Project we are interested in migrating data intensive applications. During the first month of the project we startet to look at existing projects in that space, by performing a systematic literatur study.
+
+Based on this we were already able to identify nine interesting frameworks. We plan to release the full study later this year, but here is a teaser of the frameworks we found so far. All show potential and follow a similar application model, that we might use in SMILE as well.
+
+
+| Name        | Link                                                                     | Released |
+|-------------|--------------------------------------------------------------------------|----------|
+| PyWren      | [10.1145/3127479.3128601](https://doi.org/10.1145/3127479.3128601)       |  2017    |
+| IBM PyWren  | [10.1145/3284028.3284029](https://doi.org/10.1145/3284028.3284029)       |  2018    |
+| gg          | [ATC 2019](https://www.usenix.org/conference/atc19/presentation/fouladi) |  2019    |
+| Flint       | [10.1109/CLOUD.2018.00063](https://doi.org/10.1109/CLOUD.2018.00063)     |  2018    |
+| CloudButton | [https://arxiv.org/abs/1907.11465](https://arxiv.org/abs/1907.11465)     |  2019    |
+| Lambada     | [10.1145/3318464.3389758](https://doi.org/10.1145/3318464.3389758)       |  2019    |
+| Starling    | [https://arxiv.org/abs/1911.11727](https://arxiv.org/abs/1911.11727)     |  2019    |
+| CRUCIAL     | [10.1145/3361525.3361535](https://doi.org/10.1145/3361525.3361535)       |  2019    |
+| Locus       | [10.5555/3323234.3323251](https://doi.org/10.5555/3323234.3323251)       | 2019     |

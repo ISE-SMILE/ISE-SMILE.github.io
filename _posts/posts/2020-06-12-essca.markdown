@@ -1,0 +1,18 @@
+---
+layout: post
+title:  "Presented Diminuendo! Tactics in Support of FaaS Migrations @ ESSCA 2020"
+date:   2020-06-12 10:19:55 +0100
+author:
+  name: Sebastian Werner - Project Lead
+  twitter: tawalaya
+  picture: /images/seb.png
+categories: papers
+---
+Today, we had the pleasure to present our paper "Diminuendo! Tactics in Support of FaaS Migrations" (to be published in July) at the [Second European Symposium on Serverless Computing and Applications](https://www.agilealliance.org/xp2020/call-for-submissions/call-for-research-workshop-proposals/european-symposium-on-serverless-computing-and-applications/). 
+
+In the paper we present five migration tactics in support of futur migration of data-intensive applications. We plan to integrate them in the SMILE project.
+
+
+Have a look at our slides:
+{% include responsive-embed url="https:///www.slideshare.net/slideshow/embed_code/key/
+L8bRXmXt5uImBQ" ratio="16:9" %}
