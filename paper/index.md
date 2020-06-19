@@ -1,7 +1,7 @@
 ---
 title: Papers
 layout: categories
-permalink: /papers/
+permalink: /paper/
 taxonomy: papers
 show_excerpts: true
 paginate: true
