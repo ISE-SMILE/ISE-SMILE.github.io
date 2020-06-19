@@ -1,7 +1,9 @@
 ---
-title: Publications
-layout: collection
+title: Papers
+layout: categories
 permalink: /papers/
-collection: papers
-entries_layout: grid
+taxonomy: papers
+show_excerpts: true
+paginate: true
+entries_layout: list
 ---
