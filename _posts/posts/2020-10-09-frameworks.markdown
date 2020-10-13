@@ -22,7 +22,7 @@ In these papers we could identify 18 frameworks that deal with data processing o
 
 | Name        | Source                                      | Age [^1] | Platform|
 |-------------|---------------------------------------------|----------|--------|
-| PyWren      | [logo](https://github.com/pywren/pywren)            | 679      |AWS[^2] |
+| PyWren      | ![logo](https://github.com/pywren/pywren)            | 679      |AWS[^2] |
 | IBM PyWren  | [:heavy_check_mark:](https://github.com/pywren/pywren-ibm-cloud)  | 11       |ICF[^3] |
 | gg          | [:octocat:](https://github.com/StanfordSNR/gg )          | 102      |AWS[^2] |
 |Spark on Lambda|https://github.com/qubole/spark-on-lambda  | 429      |AWS[^2] |
@@ -55,4 +55,7 @@ The most common use-case we found was batch data analytics a traditional field i
 [^2]: Amazon AWS Lambda
 [^3]: IBM Cloud Functions
 
-[logo]https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2F&psig=AOvVaw017Il4e49WqhPv90cjgS1p&ust=1602682883049000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCKjrn5PZsewCFQAAAAAdAAAAABAD
+[logo]: https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2F&psig=AOvVaw017Il4e49WqhPv90cjgS1p&ust=1602682883049000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCKjrn5PZsewCFQAAAAAdAAAAABAD
+{: height="36px" width="36px"}
+
+
